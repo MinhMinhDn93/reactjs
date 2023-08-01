@@ -1,0 +1,38 @@
+.product_wrapper{
+    margin: 20px 0;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product_item {
+    position: relative;
+    width: 200px;
+    border: 1px solid #111;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.product_item .discount{
+    position: absolute;
+    padding:2px 10px;
+    top: 5px;
+    right: 10px;
+    background-color: #f80;
+    color: #fff;
+    border-radius: 5px;
+}
+.product_item img{
+    width: 100%;
+    height: auto;
+}
+
+.product_item h3{
+    color: #111;
+    font-size: 16px;
+    margin: 10px 0;
+    min-height: 54px;
+}
+.product_item .price strong{
+    color: red;
+    margin-right: 10px;
+}

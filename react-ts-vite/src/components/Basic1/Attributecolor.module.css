@@ -1,0 +1,17 @@
+.block span {
+  margin-left: 5px;
+}
+.attr_name {
+  padding: 5px 10px;
+  color: #7e7e7e;
+  text-align: center;
+}
+.attr_item.curent{
+  color: #111;
+  border: 2px solid #111;
+  background-color: #F0F0F0;
+}
+.attr_item {
+  border: 1px solid #878888;
+  background-color: #F0F0F0;
+}

@@ -1,0 +1,11 @@
+.buttons {
+    padding: 5px 10px;
+    color: #fff;
+    text-align: center;
+    margin-right: 10px;
+    background-color:#FF6700;
+    
+  }
+.dark {
+    background-color: #111;
+  }
